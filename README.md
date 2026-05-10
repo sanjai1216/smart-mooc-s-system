@@ -1,1 +1,0 @@
-# smart-mooc-s-system
